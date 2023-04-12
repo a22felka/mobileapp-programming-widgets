@@ -6,4 +6,4 @@ Som min första widget skapade jag en knapp som constrainas med botten och sidor
 SeekBar som constrainas till toppen och sidorna av min layout. Sedan för den sista widgeten skapade jag en RatingBar som constrainas 
 med sidorna av min layout samt botten av SeekBar och toppen av Button, jag gjorde även så botten av Seekbar constrainades till 
 toppen av RatingBar.
-Slutligen ändrade jag texten på min knapp genom att byta ut rena texten med en string jag skapade.**
+Slutligen ändrade jag texten på min knapp genom att byta ut rena texten med en string jag skapade. ![img.png](img.png)**
